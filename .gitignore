@@ -1,2 +1,5 @@
-.mov
-.pde
+*.mov
+*.pde
+*.png
+*.jpg
+*.blender
